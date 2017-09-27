@@ -10,4 +10,4 @@ export PS1='\[\033[32m\]\u\[\033[00m\]:\[\033[36m\]\w\[\033[31m\]$(parse_git_bra
 
 ### aliases
 alias ll='ls -la'
-
+alias vi='vim'
